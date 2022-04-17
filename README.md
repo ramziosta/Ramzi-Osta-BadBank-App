@@ -23,9 +23,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project uses React
 
 ## Screenshots
-
+screenshots of the app and part of the code can be found at
+https://github.com/ramziosta/Ramzi-Osta-BadBank-App/upload/master/src/images
 
 ## Features
+1- Register an account and choose between checking and savings. Account number will be generated for each account opened
+2- Create a new account number
+3- Login/Logout
+4- Deposit
+5- Withdraw
+6- Check account activities and balance
+7- Check account data
 
 
 ## License
