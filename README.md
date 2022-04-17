@@ -24,7 +24,7 @@ This project uses React
 
 ## Screenshots
 screenshots of the app and part of the code can be found at
-https://github.com/ramziosta/Ramzi-Osta-BadBank-App/upload/master/src/images
+https://github.com/ramziosta/Ramzi-Osta-BadBank-App/tree/master/src/images
 
 ## Features
 
