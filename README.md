@@ -39,7 +39,7 @@ https://github.com/ramziosta/Ramzi-Osta-BadBank-App/tree/master/src/images
 
 ## Currently working on, more feartures will be added to the app
 
-* Backend Integration to save all data.
+* Backend Integration to save trieve all types of data.
 * Choose between creating a checking and savings.
 * User Permission and verification and google Login.
 * Live chat with customer service using Firebase.
