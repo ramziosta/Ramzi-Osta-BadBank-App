@@ -1,4 +1,4 @@
-# Bad Bank of America
+# Ramzi-Osta-BadBank-App MIT Capstone Project refactor from Portfolio Project Module 2
 
 The Bad Bank of America app demonstrates basic front-end React functionality, including:
 * Navigate among different pages using react-router-dom
@@ -27,14 +27,24 @@ screenshots of the app and part of the code can be found at
 https://github.com/ramziosta/Ramzi-Osta-BadBank-App/upload/master/src/images
 
 ## Features
-1- Register an account and choose between checking and savings. Account number will be generated for each account opened
-2- Create a new account number
-3- Login/Logout
-4- Deposit
-5- Withdraw
-6- Check account activities and balance
-7- Check account data
 
+## current features
+* Register an account. Account number will be generated for each account opened.
+* Create a new account number.
+* Login/Logout.
+* Deposit.
+* Withdraw.
+* Check account activities and balance.
+* Check account data.
+
+## Currently working on, more feartures will be added to the app
+
+* Backend Integration to save all data.
+* Choose between creating a checking and savings.
+* User Permission and verification and google Login.
+* Live chat with customer service using Firebase.
+* Track spendings, deposits and compare data between accounts.
+* Edit user data with user permission role.
 
 ## License
 This project is licensed under the [MIT](https://github.com/ramziosta/Ramzi-Osta-BadBank-App/main/LICENSE) license.
